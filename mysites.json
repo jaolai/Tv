@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "MissAV_JS",
-      "name": "我的 MissAV 資源",
+      "key": "Miss",
+      "name": "MissAV",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js",
       "searchable": 1,
