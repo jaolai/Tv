@@ -1,10 +1,17 @@
 {
+  "urls": [],
   "sites": [
     {
-      "key": "test",
-      "name": "測試：如果你見到我立刻同我含柒啦，搞咗咁多日，代表JSON讀到了",
-      "type": 0,
-      "api": "https://api.example.com"
+      "key": "MissAV",
+      "name": "🔞 MissAV (JS直連)",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js"
     }
-  ]
+  ],
+  "parwers": [],
+  "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu"]
 }
