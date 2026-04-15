@@ -4,7 +4,7 @@
       "key": "Miss",
       "name": "MissAV",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js",
+      "api": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js?v=20260415",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
