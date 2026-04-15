@@ -1,13 +1,10 @@
 {
   "sites": [
     {
-      "key": "Miss",
-      "name": "MissAV",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/jaolai/Tv/missav.user.js?v=20260415",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "test",
+      "name": "測試：如果你見到我立刻同我含柒啦，搞咗咁多日，代表JSON讀到了",
+      "type": 0,
+      "api": "https://api.example.com"
     }
   ]
-} 
+}
